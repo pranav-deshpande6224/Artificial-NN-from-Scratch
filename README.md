@@ -6,6 +6,12 @@
 
 ---
 
+# Handwritten Report
+
+📄 https://drive.google.com/file/d/1gMmFGm0JCDFaSRchsr-55xLagP1P5F2_/view?usp=drive_link
+
+---
+
 ## Introduction
 
 This project implements a fully connected Artificial Neural Network (ANN) from scratch using PyTorch tensor operations without relying on built-in neural network layers.
@@ -161,12 +167,6 @@ $$
 <p align="center">
   <img src="results/90_10_cm.png" width="1000">
 </p>
-
----
-
-# Handwritten Report
-
-📄 https://drive.google.com/file/d/1gMmFGm0JCDFaSRchsr-55xLagP1P5F2_/view?usp=drive_link
 
 ---
 
