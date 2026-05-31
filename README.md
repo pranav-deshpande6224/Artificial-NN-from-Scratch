@@ -107,36 +107,6 @@ $$
 
 # Results
 
-## Overall Accuracy Comparison
-
-<p align="center">
-  <img src="assets/accuracy_comparison.png" width="1000">
-</p>
-
----
-
-## Loss Curves
-
-<p align="center">
-  <img src="assets/loss_curves.png" width="1000">
-</p>
-
----
-
-## Confusion Matrices
-
-<p align="center">
-  <img src="assets/confusion_matrices_70_30.png" width="1000">
-</p>
-
-<p align="center">
-  <img src="assets/confusion_matrices_80_20.png" width="1000">
-</p>
-
-<p align="center">
-  <img src="assets/confusion_matrices_90_10.png" width="1000">
-</p>
-
 ---
 
 # Accuracy Summary
@@ -164,6 +134,30 @@ $$
 
 ---
 
+## Loss Curves
+
+<p align="center">
+  <img src="assets/loss_curves.png" width="1000">
+</p>
+
+---
+
+## Confusion Matrices
+
+<p align="center">
+  <img src="assets/confusion_matrices_70_30.png" width="1000">
+</p>
+
+<p align="center">
+  <img src="assets/confusion_matrices_80_20.png" width="1000">
+</p>
+
+<p align="center">
+  <img src="assets/confusion_matrices_90_10.png" width="1000">
+</p>
+
+---
+
 # Google Colab
 
 🔗 PASTE_COLAB_LINK
@@ -173,12 +167,6 @@ $$
 # Handwritten Report
 
 📄 PASTE_HANDWRITTEN_REPORT_LINK
-
----
-
-# Model Weights
-
-📦 PASTE_MODEL_LINK
 
 ---
 
