@@ -155,7 +155,7 @@ $$
 </p>
 
 <p align="center">
-  <img src="assets/80_20_cm.png" width="1000">
+  <img src="results/80_20_cm.png" width="1000">
 </p>
 
 <p align="center">
