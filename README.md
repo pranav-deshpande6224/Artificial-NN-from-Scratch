@@ -257,18 +257,11 @@ $$
 
 Weights are updated using Gradient Descent:
 
-$$
-W_{new}
-=
-W_{old}
--
-\eta
-\frac{\partial L}{\partial W}
-$$
+$$W_{new}=W_{old}-\eta\frac{\partial L}{\partial W}$$
 
 where:
 
-- η = learning rate
+- $\eta$ = learning rate
 
 ---
 
