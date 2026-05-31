@@ -1,5 +1,11 @@
 # Artificial Neural Network from Scratch on MNIST
 
+# Google Colab
+
+🔗 https://drive.google.com/file/d/1iZEi_DKaG-HFtVxCdAKDqHpxS5mRLjHk/view?usp=drive_link
+
+---
+
 ## Introduction
 
 This project implements a fully connected Artificial Neural Network (ANN) from scratch using PyTorch tensor operations without relying on built-in neural network layers.
@@ -137,7 +143,7 @@ $$
 ## Loss Curves
 
 <p align="center">
-  <img src="assets/loss_curves.png" width="1000">
+  <img src="results/loss_table.png" width="1000">
 </p>
 
 ---
@@ -145,28 +151,22 @@ $$
 ## Confusion Matrices
 
 <p align="center">
-  <img src="assets/confusion_matrices_70_30.png" width="1000">
+  <img src="results/70_30_confusion.png" width="1000">
 </p>
 
 <p align="center">
-  <img src="assets/confusion_matrices_80_20.png" width="1000">
+  <img src="assets/80_20_cm.png" width="1000">
 </p>
 
 <p align="center">
-  <img src="assets/confusion_matrices_90_10.png" width="1000">
+  <img src="results/90_10_cm.png" width="1000">
 </p>
-
----
-
-# Google Colab
-
-🔗 PASTE_COLAB_LINK
 
 ---
 
 # Handwritten Report
 
-📄 PASTE_HANDWRITTEN_REPORT_LINK
+📄 https://drive.google.com/file/d/1gMmFGm0JCDFaSRchsr-55xLagP1P5F2_/view?usp=drive_link
 
 ---
 
@@ -286,4 +286,6 @@ where:
 
 **Pranav Deshpande**  
 IIT Jodhpur  
-Deep Learning • Neural Networks • Computer Vision
+* Deep Learning 
+* Neural Networks 
+* Computer Vision
